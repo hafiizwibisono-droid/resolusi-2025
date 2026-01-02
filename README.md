@@ -1,2 +1,2 @@
 # resolusi-2025
-strategi belajar 
+strategi belajar ngoding
